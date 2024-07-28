@@ -10,6 +10,8 @@ function App() {
 
       <main>
 
+        <h1>MAIN IS FINISHED</h1>
+
       </main>
     </div>
   );
